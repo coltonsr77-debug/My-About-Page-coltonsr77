@@ -21,9 +21,9 @@ I update this bot daily with new patches and features, so check back often to se
 
 ### 📦 Other Projects
 - [My-Discord-Bots](https://github.com/coltonsr77/My-Discord-Bots): Collection of Discord bots
-- [Uzi-Discord-Bot-Website](https://github.com/coltonsr77/Uzi-Discord-Bot-Website): Website for your Uzi Bot
-- [Amorphous-Uzi](https://github.com/coltonsr77/Amorphous-Uzi): Repo for your bots
-- [My-About-Repo](https://github.com/coltonsr77/My-About-Repo): Your about/info repo
+- [Uzi-Discord-Bot-Website](https://github.com/coltonsr77/Uzi-Discord-Bot-Website): Website for my Uzi Bot
+- [Amorphous-Uzi](https://github.com/coltonsr77/Amorphous-Uzi): Repo for my bots
+- [My-About-Repo](https://github.com/coltonsr77/My-About-Repo): My about/info repo
 
 ---
 
