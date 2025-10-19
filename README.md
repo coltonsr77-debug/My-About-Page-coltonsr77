@@ -7,7 +7,7 @@ Welcome to my GitHub! I specialize in building **Discord Bots** using **Node.js*
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Node.js (JavaScript)
+- **Languages:** Node.js (JavaScript) and Python 3
 
 ---
 
